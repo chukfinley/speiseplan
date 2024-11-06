@@ -1,0 +1,10 @@
+{
+  "url": "https://www.meinspeiseplan.info/rbzw",
+  "days_to_show": ["Montag", "Donnerstag"],
+  "gotify": {
+    "server_url": "https://gotifyurl.com/",
+    "api_key": "",
+    "enabled": true
+  },
+  "check_time": "08:00"
+}
